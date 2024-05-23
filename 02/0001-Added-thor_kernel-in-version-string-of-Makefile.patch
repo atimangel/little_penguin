@@ -1,0 +1,28 @@
+From 235e66c797b3407ea5887a05af5cfd88adb8fe51 Mon Sep 17 00:00:00 2001
+From: park sangjae <snpark@student.42.fr>
+Date: Wed, 15 May 2024 07:54:04 +0900
+Subject: [PATCH] Added -thor_kernel in version string of Makefile
+
+42 little_penguin subject required to do.
+
+Signed-off-by: park sangjae <snpark@student.42.fr>
+---
+ Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Makefile b/Makefile
+index 40fb2ca6fe4c..c8f2cd47329c 100644
+--- a/Makefile
++++ b/Makefile
+@@ -2,7 +2,7 @@
+ VERSION = 6
+ PATCHLEVEL = 9
+ SUBLEVEL = 0
+-EXTRAVERSION = -rc6
++EXTRAVERSION = -thor_kernel
+ NAME = Hurr durr I'ma ninja sloth
+ 
+ # *DOCUMENTATION*
+-- 
+2.45.0
+

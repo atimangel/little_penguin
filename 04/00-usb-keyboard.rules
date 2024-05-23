@@ -1,0 +1,4 @@
+SUBSYSTEM=="usb",\
+ATTRS{serial}=="9876543210", \
+ACTION=="add", \
+RUN+="/sbin/insmod /root/LP/04/keyboard_module.ko"

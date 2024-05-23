@@ -1,0 +1,11 @@
+[ 2283.385951] usb 1-2: USB disconnect, device number 27
+[ 2287.432266] usb 1-2: new full-speed USB device number 28 using xhci_hcd
+[ 2287.778027] usb 1-2: config 1 has an invalid interface number: 2 but max is 1
+[ 2287.787763] usb 1-2: config 1 has no interface number 1
+[ 2287.796163] usb 1-2: New USB device found, idVendor=0b05, idProduct=1939, bcdDevice= 1.00
+[ 2287.800738] usb 1-2: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[ 2287.804255] usb 1-2: Product: AURA LED Controller
+[ 2287.806383] usb 1-2: Manufacturer: AsusTek Computer Inc.
+[ 2287.808906] usb 1-2: SerialNumber: 9876543210
+[ 2287.816817] hid-generic 0003:0B05:1939.001E: hiddev96,hidraw1: USB HID v1.11 Device [AsusTek Computer Inc. AURA LED Controller] on usb-0000:00:0c.0-2/input2
+[ 2287.828769] keyboard module : init
